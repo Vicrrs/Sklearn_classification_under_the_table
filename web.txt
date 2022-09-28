@@ -1,0 +1,14 @@
+acessou_home, acessou_como_funciona, acessou_contato, comprou
+
+*caracteristicas para analizar 
+1 - acessou
+0 - n acessou
+
+comprou - classificacao
+
+1, 0, 1, 1
+0, 1, 0, 0
+1, 1, 0, 1
+
+csv: comma separated value/ valores separados por virgula
+arquivo: acesso.csv
