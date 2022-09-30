@@ -28,3 +28,5 @@ def carregar_buscas():
         dado = [int(home), busca, int(logado)]
         X.append(dado)
         Y.append(int(comprou))
+
+    return X, Y
